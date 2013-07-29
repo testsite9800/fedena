@@ -1,6 +1,8 @@
 source 'http://rubygems.org'
 
 gem "mysql"
+gem "postgresql"
+gem "i18n"
 gem "rails", "2.3.11"
 gem 'rake', '0.8.7'
 gem 'declarative_authorization'
